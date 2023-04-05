@@ -1,3 +1,5 @@
+-- Lab exercise sheet 1
+
 import Data.Char
 import Data.List
 
